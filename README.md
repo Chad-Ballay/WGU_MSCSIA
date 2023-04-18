@@ -6,7 +6,7 @@ This is my portfolio of my coursework for my MS Cyber Security & Information Ass
 ## Classes, Projects, Presentations, and Reviews
 
 |  Class Summary  |Task/Project Name|  Project Video  |  Date Completed |
-|:---------------:|:---------------:|:---------------:|:---------------:|
+|:--------------- |:--------------- |:--------------- |:--------------- |
 | D482: Secure Network Design | | | |
 | D485: Cloud Security | | | |
 | D486: Governance, Risk, and Compliance | | | |
@@ -19,6 +19,7 @@ This is my portfolio of my coursework for my MS Cyber Security & Information Ass
 | D489: Cybersecurity Management | | | |
 
 ## Useful Links
-|  Link  |    Description    |
-|:------:|:-----------------:|
+|        Link          |    Description                                                           |
+|:-------------------- |:------------------------------------------------------------------------ |
 | [Grammarly](https://grammarly.com) | Much of the coursework comes down to being able to communicate through writing.  Make your life easier by using Grammarly as a first pass filter. | 
+| [WGU Catalog](https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/institutional-catalog/2023/Institutional-Catalog-April%202023.pdf) | April 2023 WGU Catalog|
